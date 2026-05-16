@@ -1,2 +1,2 @@
 # red
-scripts / cheats / ctfs
+scripts / payloads / cheats / ctfs
