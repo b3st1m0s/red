@@ -1,1 +1,0 @@
-![](scrns/Pasted%20image%2020260516095945.png)
